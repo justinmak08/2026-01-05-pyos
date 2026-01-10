@@ -8,7 +8,9 @@
 *TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
 If you don't plan to publish to PyPI, you can remove them.*
 
-pyos_jmak0808 is a project that (describe what it does here).
+TestPyPI version: 0.1.0
+
+https://test.pypi.org/project/pyos_jmak0808/0.1.0/
 
 ## Get started
 
